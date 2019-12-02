@@ -15,7 +15,7 @@
       sudo tar -xvzf ~/Downloads/apache-maven-3.6.2-bin.tar.gz
       
 # Step 4:
-      Edit the /etc/environment file and add the following environment variable:
+      Edit the /etc/environment OR ~/.bashrc file and add the following environment variable:
 
       M2_HOME="/opt/apache-maven-3.6.2"
 
